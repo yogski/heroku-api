@@ -48,6 +48,12 @@
 			"revision": "7fcbc72f853b92b5720db4a6b8482be612daef24"
 		},
 		{
+			"checksumSHA1": "QpZvwREsmeW2kljffZbv7QVVfhk=",
+			"path": "github.com/russross/blackfriday",
+			"revision": "4048872b16cc0fc2c5fd9eacf0ed2c2fedaa0c8c",
+			"revisionTime": "2017-07-28T17:53:26Z"
+		},
+		{
 			"checksumSHA1": "hKZGpbFuCrkE4s1vxubKK1aFlfI=",
 			"path": "golang.org/x/net/context",
 			"revision": "d9558e5c97f85372afee28cf2b6059d7d3818919"
