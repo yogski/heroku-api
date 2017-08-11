@@ -20,6 +20,9 @@ Yang sudah berhasil dilakukan adalah deploy aplikasi mengikuti petunjuk Getting 
 Deploy aplikasi sesuai assessment test tidak dapat dilakukan karena berbagai issue yang muncul dari sisi Go maupun deploy di Heroku.
 
 Berikut adalah isi readme.md dari Heroku: Getting Started with Go
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
 # go-getting-started
 
 A barebones Go app, which can easily be deployed to Heroku.
