@@ -1,4 +1,28 @@
+# Binar Academy - Heroku API
+by: Yogi Agnia Dwi Saputro
 
+## Penjelasan
+Ini adalah source code Heroku API untuk asessment test Binar Academy kelas back end.
+ - Package models:
+      - model.go
+      - user.go
+ - Package routers
+      - router.go
+ - Package controllers
+      - subscribe.go
+      - user.go
+ - Package main
+      - main.go
+
+## Note
+Aplikasi yang ada di source code sesuai kriteria soal berbeda dengan aplikasi yang terdeploy di Heroku.
+Yang sudah berhasil dilakukan adalah deploy aplikasi mengikuti petunjuk Getting Started with Go.
+Deploy aplikasi sesuai assessment test tidak dapat dilakukan karena berbagai issue yang muncul dari sisi Go maupun deploy di Heroku.
+
+Berikut adalah isi readme.md dari Heroku: Getting Started with Go
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
 # go-getting-started
 
 A barebones Go app, which can easily be deployed to Heroku.
